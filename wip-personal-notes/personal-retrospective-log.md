@@ -1,6 +1,6 @@
 # Personal retrospective log
 
-## Week 1: start-up
+## Week 1 & 2: start-up
 
 In my opinion this was a REALLY slow start. I understand people from outside FHICT need a couple days to get used to the way stuff works, but we were left pretty much without guidance which led to a lot of people doing nothing during the group project concept phase. From what I could tell this week should have been group brainstorming about ideas for both personal and group project ideas, but no groups were made nor did we get any templates/examples for project proposals.
 
