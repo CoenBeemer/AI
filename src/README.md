@@ -24,6 +24,9 @@ click run I guess, I have no clue since at this point I haven't written a single
 ## Where to get help
 Ever heard of stackOverflow? good luck.
 
+## Sources
+A list of all the used datasets and their sources can be found [here](../data/SOURCES.md).
+
 ## Maintainers & project status
 Current maintainers for this project: Coen Beemer
 
