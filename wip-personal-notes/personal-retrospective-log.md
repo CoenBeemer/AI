@@ -11,3 +11,8 @@ I also learned we'll only be told about the PDR in week 3, which is very late in
 I talked to multiple teachers about my personal project concept, and most of them seemed interested in it. \
 Kazimier said it was an unique idea and according to Danny it was a realistic concept for which he had a couple ideas which I could expand on. Coen also expressed his interest in the technological aspect of working with many different data types.
 
+
+
+## Week 3: PDR & making groups
+
+During this week I focussed on setting up this PDR and making groups. We did have some workshops, which seemed somewhat out of order going from really basic beginner level to hard & advanced stuff and back to beginner again. I did learn a couple things from the workshops, but they didn't really help with giving direction to my personal project just yet.
