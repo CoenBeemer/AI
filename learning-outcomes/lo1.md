@@ -11,12 +11,17 @@ The student is able to reflect on how the projects can influence others while ke
 ## Self-assessment
 
 * [x] <mark style="color:red;">Undefined</mark>
-* [ ] <mark style="color:orange;">Orienting</mark>
+* [x] <mark style="color:orange;">Orienting</mark>
 * [ ] <mark style="color:yellow;">Beginning</mark>
 * [ ] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
 
+### First Evaluation: Week 4
 
+This week I had a talk about the societal impact of my personal project with Georgiana. Apparently she had done a similar project before, but she (jokingly) mentioned she stopped that project as she started to realize she was replacing her own job with an AI. Her project idea was lower level, picking an algorithm and tweaking hyperparameters to make that suitable for training with the provided dataset.&#x20;
 
+I plan on having my idea stay at a higher level, thereby keeping the complexity at a reasonable level for a solo project. My AI will only choose an existing trained model, which can hopefully help people get inspired and interested in AI.
+
+#### Self Assessment: Orienting
