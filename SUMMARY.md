@@ -26,6 +26,7 @@
 ## WIP personal notes
 
 * [Learning outcome template](wip-personal-notes/learning-outcome-template.md)
+* [Personal project concept](wip-personal-notes/personal-project-concept.md)
 * [Personal project proposal](wip-personal-notes/personal-project-proposal.md)
 * [Group project proposal](wip-personal-notes/group-project-proposal.md)
 * [Personal retrospective log](wip-personal-notes/personal-retrospective-log.md)
