@@ -1,8 +1,6 @@
 # Overlord AI
 
-I used the AI to choose the AI.
-
-![](../data/images/i-used-the-ai-to-choose-the-ai.png)
+![I used the AI to choose the AI](../data/images/i-used-the-ai-to-choose-the-ai.png)
 
 ## What does this project aim to do?
 Oh no! You mixed up your low-res cat images dataset with your poorly formatted wages dataset! 
@@ -19,7 +17,7 @@ The name "Overlord AI" came from the idea of having one AI rule over several oth
 
 ## Why use Overlord AI?
 This AI can be used to:
-- Help people with little to know knowledge about AI explore existing AI
+- Help people with little to no knowledge about AI explore existing AI "Throw everything against the wall and hope something will stick" style.
 - Help people who are somewhat more experienced with AI find a suitable AI for their data easier and faster
 
 ## How to get started
