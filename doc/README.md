@@ -1,5 +1,5 @@
 # Overlord AI
-
+For a version with clickable links and images, see [my GitHub](https://github.com/CoenBeemer/AI/blob/personalProject/doc/README.md).
 ![I used the AI to choose the AI](../data/images/i-used-the-ai-to-choose-the-ai.png)
 
 ## What does this project aim to do?
