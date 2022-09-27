@@ -5,20 +5,26 @@ For a version with clickable links and images, see [my GitHub](https://github.co
 ## What does this project aim to do?
 Oh no! You mixed up your low-res cat images dataset with your poorly formatted wages dataset! 
 
-If only there was an AI that you could throw this mess into that would pass on the cat images to an AI upscaler and the dataset to a wages predictor AI!
+If only there was an AI that you could throw this mess into that would pass on the cat images to an AI upscaler and the wages dataset to a wages predictor AI!
 
-No worries, OverlordAI is here to help. It will choose a suitable existing AI from this list (insert link to list here) to process your data!
+No worries, OverlordAI is here to help. It will choose a suitable existing AI from this [list](../data/models/SOURCES.md) to process your data!
 
 The idea behind this AI is to find a suitable AI for a large amount of datasets with varying and/or unknown data types. 
 
-
 ## Why "Overlord" AI?
-The name "Overlord AI" came from the idea of having one AI rule over several others, making them the ruler or "overlord".
+The name "Overlord AI" came from the idea of having one AI rule over several others, making it the ruler or "overlord".
 
 ## Why use Overlord AI?
 This AI can be used to:
 - Help people with little to no knowledge about AI explore existing AI "Throw everything against the wall and hope something will stick" style.
 - Help people who are somewhat more experienced with AI find a suitable AI for their data easier and faster
+
+## Cost estimate
+![](../data/images/what_did_it_cost.jpg)
+
+The estimated cost of this project (without paying for my time) would be free, as (for now) there are no plans of using licensed/closed source AI solutions.
+
+Since there are [platforms](https://modelzoo.co/) with a lot of open source pretrained AI models, there is currently no need to spend money on super niche and expensive AI models.
 
 ## How to get started
 click run I guess, I have no clue since at this point I haven't written a single line of code.
@@ -26,14 +32,7 @@ click run I guess, I have no clue since at this point I haven't written a single
 ## Where to get help
 Ever heard of stackOverflow? Good luck.
 
-If you can't figure it out with stackOverflow's help, you can contact one of the project [maintainers](#current-maintainers-for-this-project)
-
-## Cost estimate
-![](../data/images/what_did_it_cost.jpg)
-
-The estimated cost of this project without hourly wages would be free, as (for now) there are no plans of using licensed/closed source AI solutions.
-
-Since there are [platforms](https://modelzoo.co/) with a lot of open source pretrained AI models, there is no need to spend money on super niche and expensive AI models.
+If you can't figure it out with stackOverflow's help, you can contact one of the project [maintainers](#current-maintainers-for-this-project).
 
 ## Maintainers & project status
 ### Current maintainers for this project

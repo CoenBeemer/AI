@@ -1,1 +1,2 @@
 # A list of all the resources used in this project
+ - [L09 Model Selection and Hyperparameter](https://www.kaggle.com/code/jhskaggle/l09-model-selection-and-hyperparameter/notebook) - A Kaggle tutorial on model selection and hyperparameter tuning
