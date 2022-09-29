@@ -1,1 +1,1 @@
-# AI
+# [See documentation here](doc/README.md)
