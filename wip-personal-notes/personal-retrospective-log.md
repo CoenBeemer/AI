@@ -11,7 +11,7 @@ I also learned we'll only be told about the PDR in week 3, which is very late in
 I talked to multiple teachers about my personal project concept, and most of them seemed interested in it. \
 Kazimier said it was an unique idea and according to Danny it was a realistic concept for which he had a couple ideas which I could expand on. Coen also expressed his interest in the technological aspect of working with many different data types.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>feedpulse feedback</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>feedpulse feedback</p></figcaption></figure>
 
 
 

@@ -22,6 +22,6 @@ The student shows interest in partaking in the projects and wants to improve on 
 
 This week we actually started work on the group project by talking about the concept and making lists of questions we had for the client and teachers. I initialized the conversations to plan meetings as nobody else was doing it at the time.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Me asking for meetings in teams</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Me asking for meetings in teams</p></figcaption></figure>
 
 #### Self Assessment: Orienting
