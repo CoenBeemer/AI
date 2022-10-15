@@ -34,7 +34,7 @@ This week I successfully gathered data from scraping I did on kaggle. This was d
 
 The filtering is then done using regex expressions to loop through the html. Some of the data needs hot encoding, such as the tags.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 All the data is then put into a dataframe for further processing.
 

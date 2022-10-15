@@ -27,6 +27,6 @@ This week the group project started going somewhere, we made the project proposa
 
 I talked to Hans and Georgiana, both of which were interested in what I was aiming for. Georgiana helped define some smaller steps I could take to achieve my goal, starting with data gathering _while_ showing multiple other learning outcomes. I'll do this by running existing algorithms and then putting the output in a separate dataset so they can be referenced for future runs of my own AI. Hans suggested combining multiple datasets from a single theme as well, which I don't think is _as_ relevant to my project but can still be interesting to take a look at.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>feedpulse feedback</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>feedpulse feedback</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/20220929_134729.jpg" alt=""><figcaption><p>Georgiana's illustration of my AI's layout</p></figcaption></figure>
