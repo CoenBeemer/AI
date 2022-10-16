@@ -32,5 +32,11 @@ This week I started reading up on the technical aspect of this project, also tal
 
 #### Self Assessment: Beginning
 
+### Third Evaluation: Week 7
+
+I'm starting to make decent progress on my [personal project goals](../wip-personal-notes/personal-project-proposal.md#current-project-goals-and-status). As seen by the colors in the linked project goals I still feel I'm in the beginning stage, as I haven't done much with regards to AI yet.
+
+#### Self Assessment: Beginning
+
 ###
 

@@ -30,7 +30,7 @@ I decided to scrape data from kaggle, to be specific the top 100 most upvoted re
 
 This week I successfully gathered data from scraping I did on kaggle. This was done by making a script which pulls the HTML from kaggle and then filters through it to extract data. I've also added an optional download so the workbooks will be downloaded locally.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 The filtering is then done using regex expressions to loop through the html. Some of the data needs hot encoding, such as the tags.&#x20;
 
@@ -38,6 +38,6 @@ The filtering is then done using regex expressions to loop through the html. Som
 
 All the data is then put into a dataframe for further processing.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Self Assessment: Beginning

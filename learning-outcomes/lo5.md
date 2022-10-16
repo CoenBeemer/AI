@@ -22,6 +22,6 @@ The student can display the data in a way which is useful and/or interesting to 
 
 I made several data visualisations for the data gathered from the web scraping. I made several bar graphs and boxplots in an attempt to figure out relations in the data which my AI could use as indicators for certain datatypes. My data is a bit skewed, as my data has been filtered on one of these tags (I think you can guess which one).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Self Assessment: Beginning

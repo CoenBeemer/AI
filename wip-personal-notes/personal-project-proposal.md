@@ -45,12 +45,13 @@ Since there are [platforms](https://modelzoo.co/) with a lot of open source pret
 
 * Coen Beemer
 
-#### Current project goals & status
+### Current project goals & status
 
 * [x] <mark style="color:red;">Concept</mark>
 * [x] <mark style="color:orange;">Project Proposal</mark>
-* [ ] <mark style="color:yellow;">AI gathering</mark>
-* [ ] <mark style="color:yellow;">Data gathering</mark>
+* [x] <mark style="color:yellow;">AI gathering</mark>
+* [x] <mark style="color:yellow;">Data gathering</mark>
+* [ ] <mark style="color:yellow;">Data processing</mark>
 * [ ] <mark style="color:yellow;">Model training</mark>
 * [ ] <mark style="color:green;">Model validation & documentation</mark>
 * [ ] <mark style="color:green;">AI choosing AI</mark>

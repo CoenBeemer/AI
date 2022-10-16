@@ -12,7 +12,7 @@ The student is able to reflect on how the projects can influence others while ke
 
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
-* [ ] <mark style="color:yellow;">Beginning</mark>
+* [x] <mark style="color:yellow;">Beginning</mark>
 * [ ] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
@@ -25,3 +25,21 @@ This week I had a talk about the societal impact of my personal project with Geo
 I plan on having my idea stay at a higher level, thereby keeping the complexity at a reasonable level for a solo project. My AI will only choose an existing trained model, which can hopefully help people get inspired and interested in AI.
 
 #### Self Assessment: Orienting
+
+### Second Evaluation: Week 7
+
+This week I ran into several problems with my webscraping:
+
+1. It is slow
+2. It takes up a lot of memory during runtime
+
+I decided to solve this by implementing an export and optional download of the scraped data for later use
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+This allows me to run the code even when offline and will also prevent me from artificially inflating the page visits of the used kaggle notebooks. This also prevents me from spamming the kaggle servers too much, which hopefully will prevent me from getting banned because of API overuse.
+
+#### Self Assessment: Beginning
+
