@@ -21,3 +21,6 @@
 
 > neural network?
 - changing weight(priority) of certain values (e.g. prioritize execution time or alg accuracy)
+
+
+> worst case scenario consequences in document
