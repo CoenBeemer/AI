@@ -37,6 +37,8 @@ Potential negative impacts of my project could be:
 
 Overall, in my opinion this project will likely not cause much harm, as it mainly aims to provide recommendations and not completely replace existing jobs. The data will still need to be processed according to the standards set by the recommended script(s) and may not provide the desired result so the AI consultants and data scientists still have something to do.
 
-However, if this project advances beyond a point where external intervention is needed to process datasets it could have an impact on related jobs. This is very unlikely though, as I have seen multiple papers on researchers trying to achieve a similar goal(see [AutoML](https://www.automl.org/book/)) which have not achieved this point yet.
+However, if this project advances beyond a point where external intervention is needed to process datasets it could have an impact on related jobs. This is very unlikely though, as I have seen multiple papers on researchers trying to achieve a similar goal(see [AutoML](https://www.automl.org/book/)) which have not managed to achieve this yet.
+
+My AI will also not be versatile enough, as training such an AI will take way too long considering the enormous diversity of the scripts available on kaggle. Because of this, my AI focusses mainly on one subcategory for now.
 
 
