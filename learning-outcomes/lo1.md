@@ -37,17 +37,22 @@ I decided to solve this by implementing an export and optional download of the s
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This allows me to run the code even when offline and will also prevent me from artificially inflating the page visits of the used kaggle notebooks. This also prevents me from spamming the kaggle servers too much, which hopefully will prevent me from getting banned because of API overuse.
 
 #### Self Assessment: Beginning
 
-### Third Evaluation: Week 12
+### Third Evaluation: Week 10
 
 A lot has changed since the last evaluation: I decided to change the learning outcomes in smaller projects and the group project to keep my motivation at acceptable levels. I also wrote a document about the impact youtube's algorithms can have and my advise on how that impact can be reduced.&#x20;
 
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 #### Self Assessment: Beginning (but almost proficient)&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+### How I will show this learning outcome
 
+I believe I will be able to show this learning outcome at a proficient level when I show Kazimier the retrospective I wrote on the impact a poorly trained AI can have.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

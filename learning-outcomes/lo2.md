@@ -14,7 +14,7 @@ The student is able to find problems in a project and can research ways to solve
 
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
-* [ ] <mark style="color:yellow;">Beginning</mark>
+* [x] <mark style="color:yellow;">Beginning</mark>
 * [ ] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
@@ -26,4 +26,14 @@ This week I started reading up on model selection and hyperparameter tuning for 
 
 #### Self Assessment: Orienting
 
-###
+### Second Evaluation: Week 10
+
+While working on a small personal project, I ran into some weird problems in my code. After looking into this with Kazimier and Coen, I figured out the reason for that problem. What I was trying to do was predicting the review rating IGN would give a video game based on its properties such as the genre, publisher and age rating. The anomaly in my code was a very high accuracy (90%) when using randomForest and a very low accuracy(10%) when using a decisionTree. To find the cause of this, we made some visualisations as you can see [here](https://github.com/CoenBeemer/AI/blob/v2/src/ai.ipynb). At a first glance the data didn't seem to show any correlation that the models could pick up on, so I started explaining my code step by step which led to the source of the problem: I accidentally used the training dataset for the randomForest accuracy testing. Eventually the additional data visualisation did help out, because Georgiana later recommended me to use a correlation matrix instead of a scatter plot which gave me a better overview of what data I was actually using.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+#### Self Assessment: Beginning
+
+### How I will show this learning outcome
+
+I believe I will be able to show this learning outcome at a proficient level with the group project, as I got some recommendations from Georgiana for AI models that could be useful. I will explore these models to find out how to apply them and to see if they're relevant for the group project.

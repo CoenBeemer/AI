@@ -1,10 +1,10 @@
-# Personal project proposal
+# Personal project concept
 
 ## Concept
 
 For this personal project I plan to make an AI which can choose which AI is most suitable depending on what kind of inputs it gets (see example in the image below). This is suitable for people who have a bunch of data but do not know which AI to use to process it.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="An AI that chooses which AI to use depending on input data"><figcaption><p>A writing prompt goes to a writing AI, game inputs go to a game AI and a low resolution cat image goes to an AI Image Enlarger</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="An AI that chooses which AI to use depending on input data"><figcaption><p>A writing prompt goes to a writing AI, game inputs go to a game AI and a low resolution cat image goes to an AI Image Enlarger</p></figcaption></figure>
 
 ## What problem does it solve?
 

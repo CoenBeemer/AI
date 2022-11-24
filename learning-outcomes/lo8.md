@@ -1,5 +1,5 @@
 ---
-description: Personal Goal (Creating an AI overlord)
+description: Personal Goal (Creating an AI overlord) ->
 ---
 
 # LO8
@@ -38,5 +38,9 @@ I'm starting to make decent progress on my [personal project goals](../wip-perso
 
 #### Self Assessment: Beginning
 
-###
+### Fourth Evaluation: Week 9
+
+The progress on my personal project really stagnated for several weeks as I got a mindblock I couldn't get around. Because of this, I had some talks with Danny(sadly not documented in feedpulse) which resulted in me giving up on my personal project. Because of this, I decided to do several smaller projects to show the learning outcomes. I will also show a lot of my learning outcomes using the group project, which is making more progress than expected.
+
+#### Self Assessment: Beginning
 
