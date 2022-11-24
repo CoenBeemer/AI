@@ -6,26 +6,29 @@ description: Stuff I did during this project
 
 ### Learning Outcomes:
 
-[lo1.md](../learning-outcomes/lo1.md "mention") Societal impact
+[LO 1](../learning-outcomes/lo1.md) Societal impact
 
-[lo2.md](../learning-outcomes/lo2.md "mention") Investigative problem solving
+[LO 2](../learning-outcomes/lo2.md) Investigative problem solving
 
-[lo3.md](../learning-outcomes/lo3.md "mention") Data preparation
+[LO 3](../learning-outcomes/lo3.md) Data preparation
 
-[lo4.md](../learning-outcomes/lo4.md "mention") Machine teaching
+[LO 4](../learning-outcomes/lo4.md) Machine teaching
 
-[lo5.md](../learning-outcomes/lo5.md "mention") Data visualization
+[LO 5](../learning-outcomes/lo5.md) Data visualization
 
-[lo6.md](../learning-outcomes/lo6.md "mention") Reporting
+[LO 6](../learning-outcomes/lo6.md) Reporting
 
-[lo7.md](../learning-outcomes/lo7.md "mention") Personal leadership
+[LO 7](../learning-outcomes/lo7.md) Personal leadership
 
-[lo8.md](../learning-outcomes/lo8.md "mention") Personal goal
+[LO 8](../learning-outcomes/lo8.md) Personal goal
 
 ### Finalization:
 
-[retrospective.md](../finalization/retrospective.md "mention")&#x20;
+&#x20;[Retrospective](../finalization/retrospective.md)
 
-[conclusion.md](../finalization/conclusion.md "mention")&#x20;
+[Conclusion](../finalization/conclusion.md)
 
-[appendixes.md](../finalization/appendixes.md "mention")
+[Appendixes](../finalization/appendixes.md)
+
+&#x20;
+
