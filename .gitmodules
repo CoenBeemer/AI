@@ -1,3 +1,4 @@
 [submodule "STP1StressVisualisation"]
 	path = STP1StressVisualisation
+
 	url = https://github.com/Inn0/STP1StressVisualisation.git
