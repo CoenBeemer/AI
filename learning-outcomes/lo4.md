@@ -38,6 +38,36 @@ For the group project I wanted to make an AI to detect stress levels. For this I
 
 #### Self Assessment: Beginning
 
-### How I will show this learning outcome
 
-I believe I will be able to show this learning outcome at a proficient level with the group project, as I got some recommendations from Georgiana for AI models that could be useful. I will explore these models and try to apply them in the group project if possible.
+
+### Fourth Evaluation: Week 13
+
+I processed the feedback given in the previous evaluation by following a tutorial based around predicting values in a TimeSeries using the ARIMA model. For this, I modified it so I could try if it works on the group project dataset to see if it is relevant for our use case. Because I suspected it would probably not work as our dataset is very different, I mostly looked into the data preparation that was done to see if I could apply this for our own project as well. Somehow, the method I used to process the data is very similar to the way it's done in the tutorial.
+
+My data preprocessing:
+
+`df1_2['RollingMean'] = df1_2['RangeCAL_uS'].rolling(40).mean()`
+
+The tutorial's data preprocessing:
+
+`df_co2 = df_co2['co2'].resample('MS').mean()`
+
+As you can see above, I used a rolling mean as where the tutorial used a resample with the mean. The resample can be used to increase the amount of datapoints while I keep my data size the same. I believe my method will work the best with a live datastream as it runs a lot faster, so I will not change this in our product.
+
+The tutorial notebook also contains a visualisation of the data correlation, which should look similar to this:&#x20;
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Correlation visualization from the tutorial</p></figcaption></figure>
+
+It is clear that our dataset will not work right away, as it looks like this instead:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>correlation visualization for our own dataset</p></figcaption></figure>
+
+As you can see in the top right the data does not follow a normal distribution and the plot on the bottom left shows that the ordered distribution of residuals do not closely follow a linear trend. This tells us that this model will not work well with the data, which is visible in the visualization below:
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Visualization of the dynamic forecast of the model, its likely inaccuracy and the observed data(actual measurements from the dataset)</p></figcaption></figure>
+
+As you can see the prediction does get the general trend of the data, but it does not follow the actual data at all and the inaccuracy is immense. I believe this is because the dataset does not contain a clear periodic pattern which will lead to the AI having to make a shot in the dark.
+
+I believe I've shown this learning outcome to a proficient level as I have trained several models with varying success and explanations on why the model is (not) successful.
+
+#### Self Assessment: Proficient

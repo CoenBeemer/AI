@@ -40,7 +40,7 @@ However this didn't show much correlation so I tried adding more features like t
 
 This didn't help much either though, which is why Georgiana recommended looking into correlation matrices. This did help somewhat, though not much because I have so many features which causes the resolution to become an issue:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>A correlation matrix of almost 2000 features</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>A correlation matrix of almost 2000 features</p></figcaption></figure>
 
 As you can see there are some dots spread around which indicates correlation, but with the sheer amount of features (almost 2000) there is no way of telling what is what. Because of this, I decided to split up the features into smaller blocks(of about 200) which will give a much clearer image of where significant data can be found. This image for example shows a clear hotspot around the resolution features:
 

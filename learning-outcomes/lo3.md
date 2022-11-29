@@ -54,13 +54,13 @@ One of the first problems I encountered, was the wide variety of values in the d
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>A graph of low sensor values</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>A graph of high sensor values caused by a different calibration setting/skin conditions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>A graph of high sensor values caused by a different calibration setting/skin conditions</p></figcaption></figure>
 
 The data sometimes has a lot of noise and some sensor values. For this, I decided to filter them using a rolling mean. As you can see in the graph below, it works pretty well! I tried rolling median as well, but they have about the same effect so I decided on using the mean in the end.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Added a rolling mean to smooth out noise and sensor errors</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A graph of the noisy sensor data(blue) and the data filtered using the rolling mean(orange)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>A graph of the noisy sensor data(blue) and the data filtered using the rolling mean(orange)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>A comparison between the rolling median and rolling mean methods of filtering the data</p></figcaption></figure>
 
