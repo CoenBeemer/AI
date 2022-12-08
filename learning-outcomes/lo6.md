@@ -32,4 +32,4 @@ My documentation is quite a mess, as I've decided to switch my personal projects
 
 ### How I will show this learning outcome
 
-I believe I will be able to show this learning outcome at a proficient level by providing documentation for the group project and my personal projects inside the jupyter notebooks as well as some separate documents where needed.
+I believe I will be able to show this learning outcome at a proficient level by providing documentation for the group project and my personal projects inside the jupyter notebooks as well as some separate documents where needed. This PDR also shows good documentation because of the easy accessibility and the easy direct links to the work shown.
