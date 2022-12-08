@@ -4,7 +4,7 @@
 
 * [Title page](README.md)
 * [About me](introduction/about-me.md)
-* [Table of contents](introduction/table-of-contents.md)
+* [📋 Table of contents](introduction/table-of-contents.md)
 
 ## Learning Outcomes
 
@@ -19,9 +19,9 @@
 
 ## Finalization
 
-* [Retrospective](finalization/retrospective.md)
-* [Conclusion](finalization/conclusion.md)
-* [Appendixes](finalization/appendixes.md)
+* [🕵 Retrospective](finalization/retrospective.md)
+* [💎 Conclusion](finalization/conclusion.md)
+* [📄 Appendixes](finalization/appendixes.md)
 
 ## WIP personal notes
 
