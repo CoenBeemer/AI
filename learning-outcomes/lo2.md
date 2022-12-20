@@ -2,7 +2,7 @@
 description: Investigative Problem Solving
 ---
 
-# LO2
+# ✔ LO2
 
 ## Learning outcome description
 
@@ -15,7 +15,7 @@ The student is able to find problems in a project and can research ways to solve
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
-* [ ] <mark style="color:green;">Proficient</mark>
+* [x] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
@@ -34,6 +34,8 @@ While working on a small personal project, I ran into some weird problems in my 
 
 #### Self Assessment: Beginning
 
-### How I will show this learning outcome
+### Third Evaluation: week 16
 
-I believe I will be able to show this learning outcome at a proficient level with the group project, as I got some recommendations from Georgiana for AI models that could be useful. I will explore these models to find out how to apply them and to see if they're relevant for the group project.
+As described in [LO4 week 13](lo4.md#fourth-evaluation-week-13) I have explored [this tutorial](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3) for use with our group project. I have also written several research documents as described in [LO6 week 16](lo6.md#third-evaluation-week-16). With these documents, I believe I have shown enough investigative problem solving to show this learning outcome at a proficient level.
+
+#### Self Assessment: Proficient

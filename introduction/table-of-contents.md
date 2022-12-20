@@ -2,7 +2,7 @@
 description: Stuff I did during this project
 ---
 
-# Table of contents
+# 📋 Table of contents
 
 ### Learning Outcomes:
 

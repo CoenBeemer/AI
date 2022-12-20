@@ -2,7 +2,7 @@
 description: Data Visualization
 ---
 
-# LO5
+# ✔ LO5
 
 ## Learning outcome description
 
@@ -13,7 +13,7 @@ The student can display the data in a way which is useful and/or interesting to 
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
-* [ ] <mark style="color:green;">Proficient</mark>
+* [x] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
@@ -32,7 +32,7 @@ I made several data visualisations for the data gathered from the web scraping. 
 
 As explained in [LO2 week 10](lo2.md#second-evaluation-week-10) I made several visualizations for my personal project to see if there is any correlation in the data. I initially started with making scatter plots such as this one:&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>A scatter plot for trying to figure out if the game score is related to release dates somehow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>A scatter plot for trying to figure out if the game score is related to release dates somehow</p></figcaption></figure>
 
 However this didn't show much correlation so I tried adding more features like this:&#x20;
 
@@ -44,12 +44,18 @@ This didn't help much either though, which is why Georgiana recommended looking 
 
 As you can see there are some dots spread around which indicates correlation, but with the sheer amount of features (almost 2000) there is no way of telling what is what. Because of this, I decided to split up the features into smaller blocks(of about 200) which will give a much clearer image of where significant data can be found. This image for example shows a clear hotspot around the resolution features:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A correlation matrix of about 200 features with a clear hotspot in the top right</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>A correlation matrix of about 200 features with a clear hotspot in the top right</p></figcaption></figure>
 
 #### Self Assessment: Beginning (almost proficient)
 
-### How I will show this learning outcome
+### Fourth Evaluation: Week 16
 
-I believe I will be able to show this learning outcome at a proficient level by improving my visualisations a bit more by for example showing a time series instead of the unix timestamp  in the graphs. I will do this in my personal project and I will also correct this in the group project where a measurement index is used instead.
+As seen in [LO4 week 13](lo4.md#fourth-evaluation-week-13) I have improved my data visualisations by adding on timestamps instead of a measurement index. I've also improved the other visualizations by adding a legend and improving the readability.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>A graph of the sensor values and stress levels over time</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A visualization of the model's predicted values against the expected values</p></figcaption></figure>
+
+#### Self Assessment: Proficient
+
+###

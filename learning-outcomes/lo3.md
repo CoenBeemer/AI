@@ -2,7 +2,7 @@
 description: Data Preparation
 ---
 
-# LO3
+# ✔ LO3
 
 ## Learning outcome description
 
@@ -46,7 +46,7 @@ All the data is then put into a dataframe for further processing.
 
 As described in [LO4 week 12](lo4.md#third-evaluation-week-12) I wanted to train an AI for the group project. to do this, I started by processing the data we got as it was not really suitable for direct use with the AI.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 One of the first problems I encountered, was the wide variety of values in the dataset. Depending on the calibration of the sensors and the skin conditions of the test users, the values could range from 0-2.25 or from 0-12. This is a very huge gap which will completely destroy the AI, which is why I decided to introduce a scaler to normalize all the values between 0 and 1. This makes it a lot easier for the AI to detect a pattern and makes the graphs easier to compare. We also have the problem of having a lot of datasets, which makes it pretty frustrating to test a different dataset because you'd have to manually change the dataset every time. For this I decided to add an option to pick a random dataset every time the code is run to make testing with different datasets a lot easier.
 
@@ -60,9 +60,9 @@ The data sometimes has a lot of noise and some sensor values. For this, I decide
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Added a rolling mean to smooth out noise and sensor errors</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>A graph of the noisy sensor data(blue) and the data filtered using the rolling mean(orange)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>A graph of the noisy sensor data(blue) and the data filtered using the rolling mean(orange)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>A comparison between the rolling median and rolling mean methods of filtering the data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>A comparison between the rolling median and rolling mean methods of filtering the data</p></figcaption></figure>
 
 Most of these graphs and code blocks can be found in the notebook [here](https://github.com/Inn0/STP1StressVisualisation/blob/main/StressThreshold.ipynb).
 

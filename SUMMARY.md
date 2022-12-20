@@ -9,12 +9,12 @@
 ## Learning Outcomes
 
 * [LO1](learning-outcomes/lo1.md)
-* [LO2](learning-outcomes/lo2.md)
-* [LO3](learning-outcomes/lo3.md)
-* [LO4](learning-outcomes/lo4.md)
-* [LO5](learning-outcomes/lo5.md)
-* [LO6](learning-outcomes/lo6.md)
-* [LO7](learning-outcomes/lo7.md)
+* [✔ LO2](learning-outcomes/lo2.md)
+* [✔ LO3](learning-outcomes/lo3.md)
+* [✔ LO4](learning-outcomes/lo4.md)
+* [✔ LO5](learning-outcomes/lo5.md)
+* [✔ LO6](learning-outcomes/lo6.md)
+* [✔ LO7](learning-outcomes/lo7.md)
 * [LO8](learning-outcomes/lo8.md)
 
 ## Finalization

@@ -2,7 +2,7 @@
 description: Personal Leadership
 ---
 
-# LO7
+# ✔ LO7
 
 ## Learning outcome description
 
@@ -13,7 +13,7 @@ The student shows interest in partaking in the projects and wants to improve on 
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
-* [ ] <mark style="color:green;">Proficient</mark>
+* [x] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
@@ -34,7 +34,12 @@ As discussed during the semester evaluation and before that with Danny, I am one
 
 #### Self Assessment: Beginning
 
-### How I will show this learning outcome
+### Third Evaluation: Week 16
 
-I believe I will be able to show this learning outcome at a proficient level by keeping up my attendance and by keeping regular feedback moments with the consultants.
+I believe I have shown this learning outcome by keeping regular feedback moments with teachers, even at times where I was ill at home. This shows in the amount of feedpulse checkpoints I have accrued so far:
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+I also believe that the high amount of positive smileys I have gotten is a good sign that I have shown improvement in my work.
+
+#### Self Assessment: Proficient

@@ -55,4 +55,4 @@ A lot has changed since the last evaluation: I decided to change the learning ou
 
 I believe I will be able to show this learning outcome at a proficient level when I show Kazimier the retrospective I wrote on the impact a poorly trained AI can have.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>

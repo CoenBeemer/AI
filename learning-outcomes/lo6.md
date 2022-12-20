@@ -2,7 +2,7 @@
 description: Reporting
 ---
 
-# LO6
+# ✔ LO6
 
 ## Learning outcome description
 
@@ -13,8 +13,8 @@ The student can write proper reports on the projects done during the semester.
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
-* [ ] <mark style="color:green;">Proficient</mark>
-* [ ] <mark style="color:green;">Advanced</mark>
+* [x] <mark style="color:green;">Proficient</mark>
+* [x] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
 
@@ -30,6 +30,22 @@ My documentation is quite a mess, as I've decided to switch my personal projects
 
 #### Self Assessment: Beginning
 
-### How I will show this learning outcome
+### Third Evaluation: Week 16
 
-I believe I will be able to show this learning outcome at a proficient level by providing documentation for the group project and my personal projects inside the jupyter notebooks as well as some separate documents where needed.
+I've written several documents for the group project, among which are these sections of the reading guide:
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+I also wrote the accompanying research documents, which can be found in the group project delivery.
+
+During this time I also continued adding documentation with explanations to the jupyter notebooks I was working on, which you can see [here](https://github.com/Inn0/STP1StressVisualisation/blob/levelDetection/StressThreshold.ipynb) in the markdown outlines:
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+Furthermore, I believe this PDR also shows good documentation because of the easy accessibility and the easy direct links to the work shown. Several teachers have commended me on my use of GitBook, which they were not familiar with but really liked the way it's structured.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Coen(teacher) had a similar reaction to Georgiana, although that is sadly not documented in feedpulse.</p></figcaption></figure>
+
+#### Self Assessment: Advanced
