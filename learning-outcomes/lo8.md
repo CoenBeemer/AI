@@ -2,7 +2,7 @@
 description: Personal Goal (Creating an AI overlord ->Coding style)
 ---
 
-# LO8
+# ☑ LO8
 
 ## Learning outcome description
 
@@ -15,7 +15,7 @@ The student is able to write comprehensive and efficient code with enough docume
 * [x] <mark style="color:red;">Undefined</mark>
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
-* [ ] <mark style="color:green;">Proficient</mark>
+* [x] <mark style="color:green;">Proficient</mark>
 * [ ] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
@@ -52,7 +52,9 @@ As I decided to switch this learning outcome around I believe this learning outc
 
 #### Self Assessment: Beginning (but almost proficient)
 
-### How I will show this learning outcome
+### Sixth Evaluation: Week 16
 
-I believe I will be able to show this learning outcome at a proficient level by cleaning up the group project code.
+As can be seen in [this github commit](https://github.com/Inn0/STP1StressVisualisation/commit/da9d5acbd3213775523c179ab3f3779ce37c89e9) of the group project I cleaned up the code and added documentation where needed. I also removed/commented out unneeded code to improve efficiency. With this I believe I can show this learning outcome at a proficient level, but I will keep trying to improve it by redoing all the variable names to make it easier to understand.
+
+#### Self Assessment:Proficient
 

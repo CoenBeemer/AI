@@ -2,7 +2,7 @@
 description: Personal Leadership
 ---
 
-# ✔ LO7
+# ✅ LO7
 
 ## Learning outcome description
 
@@ -14,7 +14,7 @@ The student shows interest in partaking in the projects and wants to improve on 
 * [x] <mark style="color:orange;">Orienting</mark>
 * [x] <mark style="color:yellow;">Beginning</mark>
 * [x] <mark style="color:green;">Proficient</mark>
-* [ ] <mark style="color:green;">Advanced</mark>
+* [x] <mark style="color:green;">Advanced</mark>
 
 ## Learning Process
 
@@ -42,4 +42,6 @@ I believe I have shown this learning outcome by keeping regular feedback moments
 
 I also believe that the high amount of positive smileys I have gotten is a good sign that I have shown improvement in my work.
 
-#### Self Assessment: Proficient
+#### Self Assessment: Advanced
+
+##
