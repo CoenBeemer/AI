@@ -23,10 +23,9 @@
 * [💎 Conclusion](finalization/conclusion.md)
 * [📄 Appendixes](finalization/appendixes.md)
 
-## WIP personal notes
+## Other documents
 
-* [Learning outcome template](wip-personal-notes/learning-outcome-template.md)
-* [Personal project concept](wip-personal-notes/personal-project-concept.md)
-* [Personal project proposal](wip-personal-notes/personal-project-proposal.md)
-* [Group project proposal](wip-personal-notes/group-project-proposal.md)
-* [Personal retrospective log](wip-personal-notes/personal-retrospective-log.md)
+* [Learning outcome template](other-documents/learning-outcome-template.md)
+* [Personal project concept](other-documents/personal-project-concept.md)
+* [Personal project proposal](other-documents/personal-project-proposal.md)
+* [Group project proposal](other-documents/group-project-proposal.md)

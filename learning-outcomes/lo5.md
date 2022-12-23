@@ -80,7 +80,7 @@ By looking at which measurement sets were very wrong I was able to filter out se
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>No clear pattern with random peaks unrelated to the experiments</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>This dataset starts off alright, but has too much noise and at some point just flatlines.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>This dataset starts off alright, but has too much noise and at some point just flatlines.</p></figcaption></figure>
 
 A good dataset would look like this for example:&#x20;
 
@@ -90,7 +90,7 @@ These measurements clearly show increases at times where the experiment could in
 
 The first thing I noticed was the measurements are pretty much mirrored but measured in different ranges. This is because of what the measurements are: conductance and resistance. These are the exact opposite of one another, so when one goes up the other goes down. According to [wikipedia](https://en.wikipedia.org/wiki/Electrical\_resistance\_and\_conductance):
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 This means that either sensor is practically measuring the same, as they can be interchanged if the right formula is used.
 
@@ -100,7 +100,7 @@ The data also contains edge cases like this one:
 
 In this dataset there is still a clear pattern and not much noise, but at the end the values spike/crash because the patch was removed before measurements were stopped. This does distort the data, but this can be solved by removing the last several measurements. I did this by adding filters.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Filter settings to remove the wrong measurements</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Filter settings to remove the wrong measurements</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>After processing this data looks a lot more usable</p></figcaption></figure>
 

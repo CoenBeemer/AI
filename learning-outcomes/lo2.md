@@ -26,6 +26,14 @@ This week I started reading up on model selection and hyperparameter tuning for 
 
 #### Self Assessment: Orienting
 
+### Evaluation 1.5: Week 5
+
+I talked to Hans and Georgiana, both of which were interested in what I was aiming for. Georgiana helped define some smaller steps I could take to achieve my goal, starting with data gathering _while_ showing multiple other learning outcomes. I'll do this by running existing algorithms and then putting the output in a separate dataset so they can be referenced for future runs of my own AI. Hans suggested combining multiple datasets from a single theme as well, which I don't think is _as_ relevant to my project but can still be interesting to take a look at.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Second Evaluation: Week 10
 
 While working on a small personal project, I ran into some weird problems in my code. After looking into this with Kazimier and Coen, I figured out the reason for that problem. What I was trying to do was predicting the review rating IGN would give a video game based on its properties such as the genre, publisher and age rating. The anomaly in my code was a very high accuracy (90%) when using randomForest and a very low accuracy(10%) when using a decisionTree. To find the cause of this, we made some visualisations as you can see [here](https://github.com/CoenBeemer/AI/blob/v2/src/ai.ipynb). At a first glance the data didn't seem to show any correlation that the models could pick up on, so I started explaining my code step by step which led to the source of the problem: I accidentally used the training dataset for the randomForest accuracy testing. Eventually the additional data visualisation did help out, because Georgiana later recommended me to use a correlation matrix instead of a scatter plot which gave me a better overview of what data I was actually using.
