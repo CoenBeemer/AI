@@ -2,7 +2,7 @@
 description: Personal Goal (Creating an AI overlord ->Coding style)
 ---
 
-# ☑ LO8
+# ✔ LO8
 
 ## Learning outcome description
 

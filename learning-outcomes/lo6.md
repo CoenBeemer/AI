@@ -2,7 +2,7 @@
 description: Reporting
 ---
 
-# ✔ LO6
+# ☑ LO6
 
 ## Learning outcome description
 
@@ -34,18 +34,18 @@ My documentation is quite a mess, as I've decided to switch my personal projects
 
 I've written several documents for the group project, among which are these sections of the reading guide:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 I also wrote the accompanying research documents, which can be found in the group project delivery.
 
 During this time I also continued adding documentation with explanations to the jupyter notebooks I was working on, which you can see [here](https://github.com/Inn0/STP1StressVisualisation/blob/levelDetection/StressThreshold.ipynb) in the markdown outlines:
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 Furthermore, I believe this PDR also shows good documentation because of the easy accessibility and the easy direct links to the work shown. Several teachers have commended me on my use of GitBook, which they were not familiar with but really liked the way it's structured.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Coen(teacher) had a similar reaction to Georgiana, although that is sadly not documented in feedpulse.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Coen(teacher) had a similar reaction to Georgiana, although that is sadly not documented in feedpulse.</p></figcaption></figure>
 
 #### Self Assessment: Advanced

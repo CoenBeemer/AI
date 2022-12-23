@@ -2,7 +2,7 @@
 description: Societal Impact
 ---
 
-# LO1
+# ✔ LO1
 
 ## Learning outcome description
 
@@ -35,9 +35,9 @@ This week I ran into several problems with my webscraping:
 
 I decided to solve this by implementing an export and optional download of the scraped data for later use
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 This allows me to run the code even when offline and will also prevent me from artificially inflating the page visits of the used kaggle notebooks. This also prevents me from spamming the kaggle servers too much, which hopefully will prevent me from getting banned because of API overuse.
 
@@ -51,8 +51,10 @@ A lot has changed since the last evaluation: I decided to change the learning ou
 
 #### Self Assessment: Beginning (but almost proficient)&#x20;
 
-### How I will show this learning outcome
+### Fourth Evaluation: Week 16
 
-I believe I will be able to show this learning outcome at a proficient level when I show Kazimier the retrospective I wrote on the impact a poorly trained AI can have.
+To show this learning outcome I talked to Rens about it and he recommended filling in the [TICT form](https://tict.io/). After filling this in, I sent it back for feedback in which Rens pointed out some concerns which I then addressed in my next version. In combination with showing my previous documents, I believe this is enough to show this learning outcome at a proficient level.
 
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+#### Self Assessment: Proficient

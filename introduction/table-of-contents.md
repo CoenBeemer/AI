@@ -4,6 +4,14 @@ description: Stuff I did during this project
 
 # 📋 Table of contents
 
+### Before reading
+
+If you are viewing this PDR in [gitbook](https://coen-beemer.gitbook.io/pdr-minor-ai), you will see checkmarks beside the learning outcomes in the index on the left. This is what those checkmarks mean:
+
+* Black checkmark - This learning outcome is at proficient
+* Blue checkmark - This checkmark is at proficient but I believe this could be at Advanced
+* Green checkmark - This checkmark is at Advanced (already in canvas)
+
 ### Learning Outcomes:
 
 [LO 1](../learning-outcomes/lo1.md) Societal impact
