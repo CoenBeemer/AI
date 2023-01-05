@@ -18,7 +18,7 @@ description: A list of links to all my work
 
 ### Separate documents:
 
-* [This PDR](../) (on gitbook)\
+* [This PDR](https://coen-beemer.gitbook.io/pdr-minor-ai/introduction/pdr-minor-ai) (on gitbook)\
   Pretty self explanatory, in this PDR I show how I think I showed my learning outcomes during this minor.
 * [Export of my feedpulse](https://github.com/CoenBeemer/AI/blob/v2/doc/FeedPulseExport.pdf)\
   A PDF export of all my feedback moments with the teachers.
