@@ -7,7 +7,7 @@ description: A list of links to all my work
 ## Personal project(s):
 
 * [OverlordAI](https://github.com/CoenBeemer/AI/tree/personalProject) (unfinished)\
-  My initial personal project, which was evenutally dropped because of the complexity. The idea behind this AI is to find a suitable AI for a large amount of datasets with varying and/or unknown data types.&#x20;
+  My initial personal project, which was evenutally dropped because of the complexity. The idea behind this AI is to use classification on input data to find a suitable AI for a large amount of datasets with varying and/or unknown data types. I went into this project with a very optimistic mindset as I didn't know much about AI yet, which caused me to eventually drop this project because it turned out to be too complex for my knowledge at the time.
   * [code](https://github.com/CoenBeemer/AI/blob/personalProject/src/overlordAI.ipynb)\
     The code in the src directory will read the list of models in data/sources/sources.csv to scrape those urls. The scraped data is then processed to extract information for the AI to use. &#x20;
   * [documentation](https://github.com/CoenBeemer/AI/blob/personalProject/doc/README.md)\
@@ -25,7 +25,7 @@ description: A list of links to all my work
 * [Export of my feedpulse](https://github.com/CoenBeemer/AI/blob/v2/doc/FeedPulseExport.pdf)\
   A PDF export of all my feedback moments with the teachers.
 
-#### Societal impact stuff:
+#### Societal impact documents:
 
 In these documents I aimed to show my societal impact learning outcomes by discussing several subjects.
 
@@ -34,7 +34,7 @@ In these documents I aimed to show my societal impact learning outcomes by discu
 * [Impact of overfitting](https://github.com/CoenBeemer/AI/blob/v2/doc/impact\_of\_overfitting.docx)\
   A document in which I discuss the societal impact of overfitting AI in general, based around my second personal project.
 * [Impact of YouTube algorithms](https://github.com/CoenBeemer/AI/blob/v2/doc/societal\_impact.docx)\
-  A document discussing my personal opinion and experience with youtube's algorithms.
+  A document discussing my personal opinion and experience with youtube's algorithms with recommendations on how to solve some of these problems.
 * [TICT group project](https://github.com/CoenBeemer/AI/blob/v2/doc/TICT%20Stresspatches%20in%20escaperooms%20FULLSCAN.pdf)\
   A PDF export of the TICT tool which I used to show my societal impact learning outcome based on feedback from Rens.
 
