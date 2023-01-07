@@ -16,4 +16,6 @@ One of the things I do think is very unfortunate is the lack of interest the gro
 
 About halfway into the semester we started to get less and less workshops, which resulted in a very small amount of people actually working on campus (there were days where I counted 3, which meant more consultants than students were there). I believe this is caused by people getting used to working at home during covid, but by continuing this they leave a lot of opportunities to inspire/help other students like them. I think this can be solved by incentivising them more, wether that is with more workshops or by attaching this to a learning outcome (personal leadership maybe?)
 
-Even through all these struggles, I think this semester was pretty fun and informative.
+The end of the semester did feel pretty abrupt, as the evaluations were right after the newyear holidays. I feel like it would flow a bit more naturally if some of the deadlines were before these holidays, which would give teachers more time to read everything over and it would give students some more time for corrections as well.
+
+Even through all these struggles, I think this semester was pretty fun and informative. I learned a lot about AI and the responsibilities that come with making/using one. I don't think I will use a lot of the knowledge I gained this semester in my career, as in my opinion so called "black boxes" are pretty much always a bad thing to have.
