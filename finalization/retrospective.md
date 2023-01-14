@@ -19,3 +19,5 @@ About halfway into the semester we started to get less and less workshops, which
 The end of the semester did feel pretty abrupt, as the evaluations were right after the newyear holidays. I feel like it would flow a bit more naturally if some of the deadlines were before these holidays, which would give teachers more time to read everything over and it would give students some more time for corrections as well.
 
 Even through all these struggles, I think this semester was pretty fun and informative. I learned a lot about AI and the responsibilities that come with making/using one. I don't think I will use a lot of the knowledge I gained this semester in my career, as in my opinion so called "black boxes" are pretty much always a bad thing to have.
+
+Here I would also like to express my thanks to all the consultants for helping me out during the semester!
